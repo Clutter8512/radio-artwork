@@ -23,6 +23,7 @@ Content & Genres
    * 16-bit
    * Arcade
    * Chiptune / Remix
+
 Station Description
 Dedicated 24/7 internet radio station celebrating the musical legacy of SEGA. Broadcasts span the early Master System and arcade eras through Genesis FM synthesis, Saturn CD-DA audio, Dreamcast classics, and modern releases. Features automated rotations alongside regular live community broadcasts, podcasts, and DJ sets dedicated to SEGA lore and sound design.
 Search Tags
